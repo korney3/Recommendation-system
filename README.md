@@ -27,4 +27,12 @@ Weight - number of transactions made by customer in appropriate MCC category.
 
 
 
+## Running the Recommendation system
 
+The example of system usage can be viewed in `Recommendtation-system demonstration` notebook.
+
+## TO-DO
+
+1.  Update dataset storage links
+2.  Add initial dataset preprocessing code
+3.  Improve output format
