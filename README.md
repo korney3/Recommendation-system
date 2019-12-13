@@ -15,7 +15,7 @@ The raw data-like dataset has been preprocessed and saved in two csv-files, cont
 Contain personal information about customer in numerical form.
 
 | customer_id | gender_cd | marital_status_cd | children_cnt | job_position_cd | job_title | first_session_year | first_session_month | first_session_day | first_session_hour |
-| ------ | ------ | ----h-- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | ... | ... |  ... | ... | ... | ... | ... | ... | ... | ... |
 
 **transactions.csv**
